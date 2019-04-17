@@ -1,0 +1,7 @@
+1. Open a empty project(Ctrl_Shift+N)
+2. add main.cpp file into "Source File"
+3. goto project Properties.(Alt+Enter)
+4. goto C/C++ --> General --> Additional Include Directories.
+	and add include directory (GL_File--> include).
+5. goto Linker --> general -->Additional Library Directories.
+	and add lib Directory (GL_file-->lib).
